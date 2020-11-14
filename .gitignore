@@ -1,3 +1,6 @@
 .vs/
+.DS_Store
 GameEngine/obj/
 GameEngine.Tests/obj/
+GameEngine/bin/
+GameEngine.Tests/bin/
